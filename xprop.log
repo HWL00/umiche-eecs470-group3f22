@@ -1,0 +1,237 @@
+verilog/Alu_issue_buffer.sv:39 YES
+verilog/Alu_issue_buffer.sv:50 YES
+verilog/Alu_issue_buffer.sv:61 YES
+verilog/Alu_issue_buffer.sv:78 YES
+verilog/Alu_issue_buffer.sv:90 YES
+verilog/Alu_issue_buffer.sv:104 YES
+verilog/Alu_issue_buffer.sv:117 YES
+verilog/Alu_issue_buffer.sv:121 NO "a disabled 'break', 'continue', or 'return' statement" (126)
+verilog/Alu_issue_buffer.sv:128 YES
+verilog/Alu_issue_buffer.sv:140 YES
+verilog/Alu_issue_buffer.sv:148 YES
+verilog/Alu_issue_buffer.sv:160 YES
+verilog/physical_regfile.sv:31 YES
+verilog/physical_regfile.sv:40 YES
+verilog/physical_regfile.sv:50 YES
+verilog/Issue_Stage.sv:62 YES
+verilog/arbiter.sv:41 NO "a disabled 'break', 'continue', or 'return' statement" (46)
+verilog/arbiter.sv:49 NO "a disabled 'break', 'continue', or 'return' statement" (54)
+verilog/arbiter.sv:67 YES
+verilog/arbiter.sv:98 YES
+verilog/BP.sv:44 YES
+verilog/BP.sv:54 YES
+verilog/BP.sv:69 YES
+verilog/BP.sv:104 YES
+verilog/BP.sv:117 YES
+verilog/BP.sv:134 YES
+verilog/BP.sv:144 YES
+verilog/ROB.sv:54 YES
+verilog/ROB.sv:64 YES
+verilog/ROB.sv:69 NO "a disabled 'break', 'continue', or 'return' statement" (103)
+verilog/ROB.sv:113 YES
+verilog/ROB.sv:159 YES
+verilog/ROB.sv:181 YES
+verilog/ROB.sv:191 YES
+verilog/RAT.sv:29 YES
+verilog/RAT.sv:61 YES
+verilog/RAT.sv:112 YES
+verilog/Fetch.sv:46 YES
+verilog/Fetch.sv:67 YES
+verilog/Fetch.sv:86 NO "a disabled 'break', 'continue', or 'return' statement" (93)
+verilog/Fetch.sv:110 YES
+verilog/Freelist.sv:43 YES
+verilog/Freelist.sv:89 YES
+verilog/complete_stage.sv:25 YES
+verilog/complete_stage.sv:77 YES
+verilog/complete_stage.sv:117 YES
+verilog/decoder.sv:56 YES
+verilog/pipeline.sv:325 YES
+verilog/pipeline.sv:339 NO "a disabled 'break', 'continue', or 'return' statement" (344)
+verilog/pipeline.sv:347 YES
+verilog/pipeline.sv:354 YES
+verilog/pipeline.sv:369 YES
+verilog/pipeline.sv:408 YES
+verilog/pipeline.sv:512 YES
+verilog/pipeline.sv:632 YES
+verilog/pipeline.sv:1001 YES
+verilog/rs_entry.sv:69 YES
+verilog/rs_entry.sv:79 YES
+verilog/rs_entry.sv:88 YES
+verilog/rs_entry.sv:134 YES
+verilog/rs_entry.sv:137 YES
+verilog/rs_entry.sv:151 YES
+verilog/rs_entry.sv:171 YES
+verilog/rs_entry.sv:210 YES
+verilog/rs_entry.sv:221 YES
+verilog/rs_entry.sv:240 YES
+verilog/rs_entry.sv:244 NO "a disabled 'break', 'continue', or 'return' statement" (249)
+verilog/rs_entry.sv:251 YES
+verilog/rs_entry.sv:260 YES
+verilog/rs_entry.sv:311 YES
+verilog/BRAT.sv:84 YES
+verilog/BRAT.sv:94 YES
+verilog/BRAT.sv:102 YES
+verilog/BRAT.sv:113 YES
+verilog/BRAT.sv:128 YES
+verilog/BRAT.sv:136 YES
+verilog/BRAT.sv:142 YES
+verilog/BRAT.sv:163 NO "a disabled 'break', 'continue', or 'return' statement" (211)
+verilog/BRAT.sv:186 NO "a disabled 'break', 'continue', or 'return' statement" (211)
+verilog/BRAT.sv:197 NO "a disabled 'break', 'continue', or 'return' statement" (211)
+verilog/BRAT.sv:218 YES
+verilog/BRAT.sv:303 YES
+verilog/Load_Issue_Buffer.sv:74 YES
+verilog/Load_Issue_Buffer.sv:80 YES
+verilog/Load_Issue_Buffer.sv:92 YES
+verilog/Load_Issue_Buffer.sv:103 NO "a disabled 'break', 'continue', or 'return' statement" (109)
+verilog/Load_Issue_Buffer.sv:111 YES
+verilog/Load_Issue_Buffer.sv:138 YES
+verilog/Load_Issue_Buffer.sv:153 YES
+verilog/Load_Issue_Buffer.sv:157 NO "a disabled 'break', 'continue', or 'return' statement" (162)
+verilog/Load_Issue_Buffer.sv:164 YES
+verilog/Load_Issue_Buffer.sv:176 YES
+verilog/Load_Issue_Buffer.sv:185 YES
+verilog/Load_Issue_Buffer.sv:203 YES
+verilog/Icache.sv:77 YES
+verilog/Icache.sv:92 YES
+verilog/Icache.sv:107 YES
+verilog/Icache.sv:122 YES
+verilog/Icache.sv:150 NO "a disabled 'break', 'continue', or 'return' statement" (152)
+verilog/Icache.sv:175 YES
+verilog/Icache_ctrl.sv:46 YES
+verilog/Icache_ctrl.sv:97 YES
+verilog/Icache_ctrl.sv:107 YES
+verilog/Icache_ctrl.sv:115 YES
+verilog/Icache_ctrl.sv:124 YES
+verilog/Icache_ctrl.sv:154 YES
+verilog/Icache_ctrl.sv:167 NO "a disabled 'break', 'continue', or 'return' statement" (171)
+verilog/connected_lsq_dcache.sv:131 YES
+verilog/LSQ.sv:124 YES
+verilog/LSQ.sv:136 YES
+verilog/LSQ.sv:163 YES
+verilog/LSQ.sv:199 YES
+verilog/LSQ.sv:250 YES
+verilog/LSQ.sv:269 YES
+verilog/LSQ.sv:281 NO "a disabled 'break', 'continue', or 'return' statement" (288)
+verilog/LSQ.sv:295 NO "a disabled 'break', 'continue', or 'return' statement" (302)
+verilog/LSQ.sv:335 NO "a disabled 'break', 'continue', or 'return' statement" (342)
+verilog/LSQ.sv:344 YES
+verilog/LSQ.sv:349 NO "a disabled 'break', 'continue', or 'return' statement" (342)
+verilog/LSQ.sv:361 YES
+verilog/RRAT.sv:15 YES
+verilog/RRAT.sv:24 YES
+verilog/ex_stage.sv:51 NO "a disabled 'break', 'continue', or 'return' statement" (58)
+verilog/ex_stage.sv:61 YES
+verilog/ex_stage.sv:75 YES
+verilog/ex_stage.sv:109 YES
+verilog/ex_stage.sv:159 YES
+verilog/ex_stage.sv:167 YES
+verilog/Dcache.sv:154 YES
+verilog/Dcache.sv:200 YES
+verilog/Dcache.sv:213 YES
+verilog/Dcache.sv:257 YES
+verilog/Dcache.sv:268 YES
+verilog/Dcache.sv:315 YES
+verilog/Dcache.sv:327 YES
+verilog/Dcache.sv:373 YES
+verilog/Dcache.sv:381 YES
+verilog/Dcache.sv:485 YES
+verilog/Dcache_ctrl.sv:150 YES
+verilog/Dcache_ctrl.sv:153 YES
+verilog/Dcache_ctrl.sv:174 YES
+verilog/Dcache_ctrl.sv:238 YES
+verilog/Dcache_ctrl.sv:250 YES
+verilog/Dcache_ctrl.sv:286 YES
+verilog/Dcache_ctrl.sv:311 YES
+verilog/Dcache_ctrl.sv:320 NO "a disabled 'break', 'continue', or 'return' statement" (363)
+verilog/Dcache_ctrl.sv:332 YES
+verilog/Dcache_ctrl.sv:373 YES
+verilog/Dcache_ctrl.sv:411 YES
+verilog/Dcache_ctrl.sv:424 NO "a disabled 'break', 'continue', or 'return' statement" (426)
+verilog/Dcache_ctrl.sv:432 NO "a disabled 'break', 'continue', or 'return' statement" (434)
+verilog/Dcache_ctrl.sv:443 YES
+verilog/Dcache_ctrl.sv:650 YES
+verilog/Dcache_ctrl.sv:662 YES
+verilog/Dcache_ctrl.sv:673 YES
+verilog/Dcache_ctrl.sv:694 YES
+verilog/Dcache_ctrl.sv:699 YES
+verilog/Dcache_ctrl.sv:704 YES
+verilog/Dcache_ctrl.sv:720 YES
+verilog/Dcache_ctrl.sv:746 YES
+verilog/Dcache_ctrl.sv:773 NO "a disabled 'break', 'continue', or 'return' statement" (780)
+verilog/Dcache_ctrl.sv:788 NO "a disabled 'break', 'continue', or 'return' statement" (780)
+verilog/Dcache_ctrl.sv:809 YES
+verilog/Dcache_ctrl.sv:830 YES
+verilog/Dcache_ctrl.sv:979 YES
+verilog/Dcache_ctrl.sv:1179 YES
+verilog/mult.sv:104 YES
+verilog/mult.sv:120 YES
+verilog/Store_Issue_Buffer.sv:40 YES
+verilog/Store_Issue_Buffer.sv:50 YES
+verilog/Store_Issue_Buffer.sv:63 YES
+verilog/Store_Issue_Buffer.sv:85 YES
+verilog/Store_Issue_Buffer.sv:98 YES
+verilog/Store_Issue_Buffer.sv:102 NO "a disabled 'break', 'continue', or 'return' statement" (107)
+verilog/Store_Issue_Buffer.sv:109 YES
+verilog/Store_Issue_Buffer.sv:121 YES
+verilog/Store_Issue_Buffer.sv:136 YES
+verilog/MUL_Issue_Buffer.sv:42 YES
+verilog/MUL_Issue_Buffer.sv:57 YES
+verilog/MUL_Issue_Buffer.sv:68 YES
+verilog/MUL_Issue_Buffer.sv:85 YES
+verilog/MUL_Issue_Buffer.sv:97 YES
+verilog/MUL_Issue_Buffer.sv:108 YES
+verilog/MUL_Issue_Buffer.sv:121 YES
+verilog/MUL_Issue_Buffer.sv:125 NO "a disabled 'break', 'continue', or 'return' statement" (130)
+verilog/MUL_Issue_Buffer.sv:132 YES
+verilog/MUL_Issue_Buffer.sv:144 YES
+verilog/MUL_Issue_Buffer.sv:152 YES
+verilog/MUL_Issue_Buffer.sv:165 YES
+testbench/testbench.sv:327 YES
+testbench/testbench.sv:580 YES
+testbench/testbench.sv:602 NO "an edge-triggered block not inferred as a flop" (602)
+testbench/testbench.sv:848 YES
+testbench/testbench.sv:871 YES
+testbench/mem.sv:51 YES
+verilog/Dispatcher.sv:63 YES
+verilog/Dispatcher.sv:70 YES
+verilog/Dispatcher.sv:76 YES
+verilog/Dispatcher.sv:82 YES
+verilog/Dispatcher.sv:106 YES
+verilog/Dispatcher.sv:155 YES
+verilog/Dispatcher.sv:220 NO "a disabled 'break', 'continue', or 'return' statement" (223)
+verilog/Dispatcher.sv:236 YES
+verilog/ex_stage.sv:254 YES
+verilog/ex_stage.sv:256 YES
+verilog/ex_stage.sv:258 YES
+verilog/ex_stage.sv:260 YES
+verilog/ex_stage.sv:262 YES
+verilog/ex_stage.sv:265 YES
+verilog/ex_stage.sv:272 YES
+verilog/ex_stage.sv:282 YES
+verilog/ex_stage.sv:331 YES
+verilog/ex_stage.sv:337 YES
+verilog/ex_stage.sv:405 YES
+verilog/ex_stage.sv:420 YES
+verilog/ex_stage.sv:435 YES
+verilog/ex_stage.sv:475 YES
+verilog/ex_stage.sv:479 YES
+verilog/ex_stage.sv:492 YES
+verilog/ex_stage.sv:502 YES
+verilog/ex_stage.sv:595 YES
+verilog/ex_stage.sv:633 YES
+verilog/ex_stage.sv:677 YES
+verilog/ex_stage.sv:681 YES
+verilog/ex_stage.sv:686 YES
+verilog/ex_stage.sv:690 YES
+verilog/ex_stage.sv:726 YES
+verilog/ex_stage.sv:734 YES
+verilog/ex_stage.sv:758 YES
+verilog/mult.sv:56 YES
+verilog/mult.sv:61 YES
+verilog/mult.sv:67 YES
+==================================================
+X P R O P   S T A T I S T I C S
+instrumentable assignments:    1865
+instrumented assignments:      1691
+instrumentation success rate:  90%

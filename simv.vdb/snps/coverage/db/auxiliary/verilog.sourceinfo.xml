@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/home/yiroug/Desktop/pipeline"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="R-2020.12-SP2-1"  />
+      <fileinfo name="sys_defs.svh"  id="0"  timestamp="1670299288"  />
+      <fileinfo name="ISA.svh"  id="1"  timestamp="1667558960"  />
+      <fileinfo name="verilog/Alu_issue_buffer.sv"  id="2"  timestamp="1670265376"  />
+      <fileinfo name="verilog/physical_regfile.sv"  id="3"  timestamp="1670245736"  />
+      <fileinfo name="verilog/Issue_Stage.sv"  id="4"  timestamp="1670245740"  />
+      <fileinfo name="verilog/arbiter.sv"  id="5"  timestamp="1670245740"  />
+      <fileinfo name="verilog/BP.sv"  id="6"  timestamp="1670245736"  />
+      <fileinfo name="verilog/ROB.sv"  id="7"  timestamp="1670245736"  />
+      <fileinfo name="verilog/RAT.sv"  id="8"  timestamp="1670245734"  />
+      <fileinfo name="verilog/Fetch.sv"  id="9"  timestamp="1670245740"  />
+      <fileinfo name="verilog/Freelist.sv"  id="10"  timestamp="1670245740"  />
+      <fileinfo name="verilog/complete_stage.sv"  id="11"  timestamp="1670245736"  />
+      <fileinfo name="verilog/decoder.sv"  id="12"  timestamp="1670245740"  />
+      <fileinfo name="verilog/pipeline.sv"  id="13"  timestamp="1670264554"  />
+      <fileinfo name="verilog/rs_entry.sv"  id="14"  timestamp="1670245740"  />
+      <fileinfo name="verilog/BRAT.sv"  id="15"  timestamp="1670265566"  />
+      <fileinfo name="verilog/Load_Issue_Buffer.sv"  id="16"  timestamp="1670245734"  />
+      <fileinfo name="verilog/Icache.sv"  id="17"  timestamp="1670267968"  />
+      <fileinfo name="verilog/Icache_ctrl.sv"  id="18"  timestamp="1670267474"  />
+      <fileinfo name="verilog/connected_lsq_dcache.sv"  id="19"  timestamp="1670245736"  />
+      <fileinfo name="verilog/LSQ.sv"  id="20"  timestamp="1670245740"  />
+      <fileinfo name="verilog/connected_ROB_RS.sv"  id="21"  timestamp="1670245740"  />
+      <fileinfo name="verilog/RRAT.sv"  id="22"  timestamp="1670245736"  />
+      <fileinfo name="verilog/ex_stage.sv"  id="23"  timestamp="1670245740"  />
+      <fileinfo name="verilog/Dcache.sv"  id="24"  timestamp="1670265908"  />
+      <fileinfo name="verilog/Dcache_ctrl.sv"  id="25"  timestamp="1670286196"  />
+      <fileinfo name="verilog/mult.sv"  id="26"  timestamp="1670245740"  />
+      <fileinfo name="verilog/Dispatcher.sv"  id="27"  timestamp="1670245740"  />
+      <fileinfo name="verilog/Store_Issue_Buffer.sv"  id="28"  timestamp="1670245740"  />
+      <fileinfo name="verilog/MUL_Issue_Buffer.sv"  id="29"  timestamp="1670265602"  />
+      <fileinfo name="testbench/testbench.sv"  id="30"  timestamp="1670273234"  />
+      <fileinfo name="testbench/mem.sv"  id="31"  timestamp="1670245736"  />
+    </srcinfo>

@@ -1,0 +1,86 @@
+verilog/Alu_issue_buffer.sv:160 YES:SyncFF
+verilog/physical_regfile.sv:50 YES:SyncFF
+verilog/arbiter.sv:98 YES:SyncFF
+verilog/BP.sv:144 YES:SyncFF
+verilog/ROB.sv:191 YES:SyncFF
+verilog/RAT.sv:112 YES:SyncFF
+verilog/Fetch.sv:110 YES:SyncFF
+verilog/Freelist.sv:89 YES:SyncFF
+verilog/pipeline.sv:325 YES:SyncFF
+verilog/pipeline.sv:354 YES:SyncFF
+verilog/pipeline.sv:632 YES:SyncFF
+verilog/pipeline.sv:1001 YES:SyncFF
+verilog/rs_entry.sv:311 YES:SyncFF
+verilog/BRAT.sv:303 YES:SyncFF
+verilog/Load_Issue_Buffer.sv:203 YES:SyncFF
+verilog/Icache.sv:175 YES:SyncFF
+verilog/Icache_ctrl.sv:46 YES:SyncFF
+verilog/LSQ.sv:361 YES:SyncFF
+verilog/RRAT.sv:24 YES:SyncFF
+verilog/ex_stage.sv:75 YES:SyncFF
+verilog/Dcache.sv:485 YES:SyncFF
+verilog/Dcache_ctrl.sv:174 YES:SyncFF
+verilog/mult.sv:104 YES:SyncFF
+verilog/mult.sv:120 YES:SyncFF
+verilog/Store_Issue_Buffer.sv:136 YES:SyncFF
+verilog/MUL_Issue_Buffer.sv:165 YES:SyncFF
+testbench/testbench.sv:580 YES:SyncFF
+testbench/testbench.sv:602 NO "Unsupported function call"  (640)
+testbench/testbench.sv:602 NO "Unsupported function call"  (641)
+testbench/testbench.sv:602 NO "Unsupported function call"  (644)
+testbench/testbench.sv:602 NO "Unsupported function call"  (645)
+testbench/testbench.sv:602 NO "Unsupported function call"  (646)
+testbench/testbench.sv:602 NO "Unsupported function call"  (649)
+testbench/testbench.sv:602 NO "Unsupported function call"  (650)
+testbench/testbench.sv:602 NO "Unsupported function call"  (651)
+testbench/testbench.sv:602 NO "Unsupported function call"  (655)
+testbench/testbench.sv:602 NO "Unsupported function call"  (658)
+testbench/testbench.sv:602 NO "Unsupported function call"  (659)
+testbench/testbench.sv:602 NO "Unsupported function call"  (660)
+testbench/testbench.sv:602 NO "Unsupported function call"  (664)
+testbench/testbench.sv:602 NO "Unsupported function call"  (665)
+testbench/testbench.sv:602 NO "Unsupported function call"  (668)
+testbench/testbench.sv:602 NO "Unsupported function call"  (672)
+testbench/testbench.sv:602 NO "Unsupported function call"  (673)
+testbench/testbench.sv:602 NO "Unsupported function call"  (674)
+testbench/testbench.sv:602 NO "Unsupported function call"  (677)
+testbench/testbench.sv:602 NO "Unsupported function call"  (678)
+testbench/testbench.sv:602 NO "Unsupported function call"  (679)
+testbench/testbench.sv:602 NO "Unsupported function call"  (681)
+testbench/testbench.sv:602 NO "Unsupported function call"  (683)
+testbench/testbench.sv:602 NO "Unsupported function call"  (684)
+testbench/testbench.sv:602 NO "Unsupported function call"  (685)
+testbench/testbench.sv:602 NO "Unsupported function call"  (689)
+testbench/testbench.sv:602 NO "Unsupported function call"  (690)
+testbench/testbench.sv:602 NO "Unsupported function call"  (693)
+testbench/testbench.sv:602 NO "Unsupported function call"  (697)
+testbench/testbench.sv:602 NO "Unsupported function call"  (698)
+testbench/testbench.sv:602 NO "Unsupported function call"  (699)
+testbench/testbench.sv:602 NO "Unsupported function call"  (700)
+testbench/testbench.sv:602 NO "Unsupported function call"  (701)
+testbench/testbench.sv:602 NO "Unsupported function call"  (702)
+testbench/testbench.sv:602 NO "Unsupported function call"  (703)
+testbench/testbench.sv:602 NO "Unsupported function call"  (704)
+testbench/testbench.sv:602 NO "Unsupported function call"  (705)
+testbench/testbench.sv:602 NO "Unsupported function call"  (706)
+testbench/testbench.sv:602 NO "Unsupported function call"  (707)
+testbench/testbench.sv:602 NO "Unsupported function call"  (708)
+testbench/testbench.sv:602 NO "Unsupported function call"  (709)
+testbench/testbench.sv:602 NO "Unsupported function call"  (729)
+testbench/testbench.sv:602 NO "Unsupported function call"  (734)
+testbench/testbench.sv:602 NO "Unsupported function call"  (737)
+testbench/testbench.sv:848 YES:SyncFF
+testbench/testbench.sv:871 YES:SyncFF
+testbench/mem.sv:51 YES:SyncFF
+verilog/ex_stage.sv:758 YES:SyncFF
+verilog/mult.sv:67 YES:SyncFF
+==================================================
+Unified Inference Statistics
+Number of always_ff:                   26
+Number of always_latch:                0
+Number of always @*:                   0
+Number of always_comb :                62
+Number of always :                     8
+Number of flip-flop candidates:        33
+Number of synchronous flops inferred:  32
+Number of Asynchronous flops inferred: 0

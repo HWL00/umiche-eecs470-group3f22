@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/home/yiroug/Desktop/pipeline"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="R-2020.12-SP2-1"  />
+      <fileinfo name="sys_defs.svh"  id="0"  timestamp="1670299288"  />
+      <fileinfo name="ISA.svh"  id="1"  timestamp="1667558960"  />
+      <fileinfo name="synth/pipeline.vg"  id="2"  timestamp="1670300688"  />
+      <fileinfo name="synth/pipeline_svsim.sv"  id="3"  timestamp="1670300656"  />
+      <fileinfo name="testbench/testbench.sv"  id="4"  timestamp="1670273234"  />
+      <fileinfo name="testbench/mem.sv"  id="5"  timestamp="1670245736"  />
+      <fileinfo name="/afs/umich.edu/class/eecs470/lib/verilog/lec25dscc25.v"  id="6"  timestamp="1062689876"  />
+    </srcinfo>
